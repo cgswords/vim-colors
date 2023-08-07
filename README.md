@@ -7,6 +7,7 @@ A collection of vim color schemes
 - GitHub by Anthony Carapetis
 - Molokai by Tomas Restrepo
 - Mustang by Henrique C. Alves
+- Silverhand_2 by Cameron Swords
 - Tether by Cameron Swords
 - [Jellybeans](github.com/nanotech/jellybeans.vim) by a lot of people
 - ir_black by Infinite Red
